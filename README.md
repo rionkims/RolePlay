@@ -7,5 +7,7 @@
 ## PM/PO를 위한 글
 PM으로서 프로젝트를 관리하고, PO로서 제품을 만들어 가는 길잡이
 
+- B2B 제품을 파는 법: https://www.relate.kr/blog/how-to-sell-b2b-product/
+
 ## 리더를 위한 글
 작건 크건 조직의 리더로서 필요한 길잡이
