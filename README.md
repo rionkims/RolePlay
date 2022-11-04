@@ -6,6 +6,7 @@
 - 커뮤니케이션 잘하는 개발자가 되는 법: https://blog.naver.com/codestates/221250159824
 - 나쁜 개발자의 11가지 습관: https://blog.naver.com/codestates/221255140091
 - 학습하는 개발자(고농축 학습자료 꿀팁) : https://blog.naver.com/codestates/221262009063
+- 기술 업계의 독성 말투 문제, 고칩시다! : https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it/
 
 ## PM/PO를 위한 글
 - Why를 소통하는 도구 OKR: https://www.youtube.com/playlist?list=PLyAjRMJVCLLjtJPe7GX5AjncaaxU1L9a0
